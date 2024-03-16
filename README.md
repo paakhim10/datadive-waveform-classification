@@ -1,5 +1,7 @@
-# Understanding waveforms - A DataDive challenge
+# Understanding Waveforms - A DataDive challenge
 Visualizing, analyzing, and classifying waveforms.
+
+Presentation link: [Understanding Waveforms](https://prezi.com/p/rlh4czvelluo/?present=1)
 
 
 We were provided a dataset from a Waveform generator, so we were asked to analyze the data and provide relevant insights. With 5000 instances, 21 attributes, and 3 classes, I gained visual insights and analyzed the data — classifying it into the three classes assigned.
