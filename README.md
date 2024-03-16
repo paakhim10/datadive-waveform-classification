@@ -1,4 +1,4 @@
-# datadive-waveform-classification
+# Understanding waveforms - A DataDive challenge
 Visualizing, analyzing, and classifying waveforms.
 
 
